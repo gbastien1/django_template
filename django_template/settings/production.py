@@ -34,8 +34,6 @@ ALLOWED_HOSTS = (
 # Application definition
 
 INSTALLED_APPS = [
-    'django_template.apps.polls',
-    'django_template.apps.catalog',
     'django_template.apps.pages',
     'django.contrib.admin',
     'django.contrib.auth',
